@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DatePicker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="date_label_set">Press the button to set the date</string>
+    <string name="date_button_set">Choose Date</string>
+    <string name="date_view_set">The Date is: </string>
+    <string name="date_selected"></string>
+    <string name="welcome_to_logview_app">Welcome To LogView App!</string>
+    <string name="id_number">ID Number</string>
+    <string name="input">Input ID number to view log</string>
+    <string name="textview">TextView</string>
+</resources>
